@@ -81,3 +81,8 @@ img, img.scale-with-grid { outline: 0; max-width: 100%; height: auto; width: aut
 		vertical-align: middle;
 	}
 }
+
+
+.alligator-turtle {
+  object-fit: contain;
+}
