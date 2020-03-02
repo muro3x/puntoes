@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #033E8C;
 }
 
 p {
@@ -59,3 +59,31 @@ footer.page-footer {
 }
 
 img, img.scale-with-grid { outline: 0; max-width: 100%; height: auto; width: auto; }
+
+.icon {
+	i.circle {
+		font-size: 18px;
+		line-height: 42px;
+		color: #fff;
+		background-color: #033E8C;
+		text-align: center;
+	}
+	.circle {
+		position: relative;
+    margin-right: 160px;
+    margin-bottom: 160px;
+    float: left;
+		width: 42px;
+		height: 42px;
+		overflow: hidden;
+		left: 15px;
+		display: inline-block;
+		vertical-align: middle;
+	}
+}
+
+
+.mySelector {
+    width: auto;
+    height: 80%;
+}
